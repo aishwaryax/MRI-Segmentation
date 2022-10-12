@@ -1,0 +1,5 @@
+*/Lib
+*/Scripts
+*__pycache__*
+*/app/project/model
+*uploads*
